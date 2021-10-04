@@ -1,4 +1,3 @@
 # Projects-Repo
-A repo for my projects
+A repository for my Electronics simulation and software (Mostly Machine Learning) projects.
 
-I am editing the README file. Adding some more details about the project.
