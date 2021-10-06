@@ -10,4 +10,5 @@ A repository for my Electronics simulation and software (Mostly Machine Learning
 * Tweet Classification 
 * Multiclass Bangla Digit Classification
 * OCR for recognizing Bengali Digits
-* 
+* Transfer Learning in MNIST using pretrained models in CIFAR100 datasets
+* A Script for adding rain distortion and blur to images
