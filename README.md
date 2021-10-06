@@ -6,4 +6,8 @@ A repository for my Electronics simulation and software (Mostly Machine Learning
 
 
 ## Machine Learning Projects 
-
+* Spam Classification
+* Tweet Classification 
+* Multiclass Bangla Digit Classification
+* OCR for recognizing Bengali Digits
+* 
