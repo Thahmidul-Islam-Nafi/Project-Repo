@@ -12,3 +12,4 @@ A repository for my Electronics simulation and software (Mostly Machine Learning
 * OCR for recognizing Bengali Digits
 * Transfer Learning in MNIST using pretrained models in CIFAR100 datasets
 * A Script for adding rain, distortion and blur to images
+* Training Vision Transformer in Pytorch for Wafer Defect Detection
