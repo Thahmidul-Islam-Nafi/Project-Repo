@@ -9,7 +9,7 @@
 > {
 > echo "$1 $1.cpp | xargs g++ -o 
 > <br/>/$1
-> }
+> <br/>}
 
 
 #### After Creation type `customcpp yourcppfilebasename` where yourcppfilebasename is the name of the file (excluding the .cpp extension). your code should compile and run once.
