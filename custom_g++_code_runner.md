@@ -5,7 +5,7 @@
 
 > declare -f customcpp
 
-> customcpp()<br/>
+> customgpp()<br/>
 > {<br/>
 > echo "$1 $1.cpp" | xargs g++ -o 
 > <br/>/$1
