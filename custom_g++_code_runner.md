@@ -8,7 +8,7 @@
 > customcpp()
 > {
 > echo "$1 $1.cpp | xargs g++ -o 
-> \n./$1
+> <br/>/$1
 > }
 
 
