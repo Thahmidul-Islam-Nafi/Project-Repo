@@ -3,7 +3,7 @@
 
 #### This works in both `bash` and `zsh`. 
 
-> `declare -f customcpp`
+> declare -f customcpp
 
 > customcpp()
 > {
