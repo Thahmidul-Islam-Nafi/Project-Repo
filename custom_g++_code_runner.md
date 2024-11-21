@@ -12,7 +12,7 @@
 > <br/>}
 
 
-#### After Creation type `customcpp yourcppfilebasename` where yourcppfilebasename is the name of the file (excluding the .cpp extension). your code should compile and run once.
+#### After Creation type `customcpp your_cpp_file_basename` where your_cpp_file_basename is the name of the file (excluding the .cpp extension). your code should compile and run once.
 #### to run it afterwards run ./yourcppfilebasename
 
 
